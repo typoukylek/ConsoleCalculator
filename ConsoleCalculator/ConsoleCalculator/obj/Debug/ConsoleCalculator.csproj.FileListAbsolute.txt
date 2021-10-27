@@ -1,0 +1,7 @@
+C:\Users\tafar\OneDrive\Рабочий стол\ConsoleCalculator\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+C:\Users\tafar\OneDrive\Рабочий стол\ConsoleCalculator\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Users\tafar\OneDrive\Рабочий стол\ConsoleCalculator\ConsoleCalculator\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Users\tafar\OneDrive\Рабочий стол\ConsoleCalculator\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.AssemblyReference.cache
+C:\Users\tafar\OneDrive\Рабочий стол\ConsoleCalculator\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tafar\OneDrive\Рабочий стол\ConsoleCalculator\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Users\tafar\OneDrive\Рабочий стол\ConsoleCalculator\ConsoleCalculator\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
